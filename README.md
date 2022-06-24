@@ -1,3 +1,3 @@
 # Cool Weather App
 
-### React Native and Expo
+Just a random project to learn React Native and Expo
